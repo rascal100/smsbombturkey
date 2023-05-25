@@ -1,0 +1,1 @@
+powershell python bomber.py
