@@ -11,4 +11,6 @@ Bunu kullanarak, katkıda bulunanları herhangi bir kötüye kullanımdan soruml
 
 
 
-NASIL KURULUR ! 💣
+<h1> NASIL KURULUR ! 💣 <h1>
+  <code>RAR dosyasını indirdikten sonra masaüstüne veya herhangi bir klasörün içine içindeki dosyaları çıkartın</code>
+   <code>Daha sonrasında </code>
