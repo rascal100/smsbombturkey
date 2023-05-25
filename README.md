@@ -9,9 +9,11 @@ Bu uygulama başkalarına zarar vermek/rahatsızlık vermek/sorun çıkarmak iç
 Bunu kullanarak, katkıda bulunanları herhangi bir kötüye kullanımdan sorumlu tutamayacağınızı kabul etmiş olursunuz.
 <br>
 
-
+💣💣💣💣💣💣💣💣💣💣💣💣
 
 <h1> NASIL KURULUR ! 💣 </h1>
-  
-<img src="/path/to/Screenshot_1.png" alt="Alt text" title="Optional title">
-![Alt text](/rascal100/smsbombturkey/edit/main/Screenshot_1.png "Optional title")
+  screenshot klasöründen adım adım takip edip kurabilirsiniz
+  <br>
+<code>pip install -r requirements.xt</code>
+<br>
+<code>daha sonrasında baslat.bat dosyasını çalıştırın</code>
