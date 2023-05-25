@@ -1,5 +1,6 @@
 # 💣SmSBomBTurkey💣
-💣SmS Bombası türkiye +90 50 api 💣
+<strong>💣SmS Bombası türkiye +90 50 api 💣</strong>
+<br>
 <br>
 Arkadaşlarınıza şaka amaçlı kullanabilirsiniz.
 <br>
