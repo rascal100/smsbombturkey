@@ -12,7 +12,7 @@ Bunu kullanarak, katkıda bulunanları herhangi bir kötüye kullanımdan soruml
 💣💣💣💣💣💣💣💣💣💣💣💣
 
 <h1> NASIL KURULUR ! 💣 </h1>
-  screenshot klasöründen adım adım takip edip kurabilirsiniz
+<code  screenshot klasöründen adım adım takip edip kurabilirsiniz</code>
   <br>
 <code>pip install -r requirements.xt</code>
 <br>
