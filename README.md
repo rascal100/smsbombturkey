@@ -9,6 +9,6 @@ Bu uygulama başkalarına zarar vermek/rahatsızlık vermek/sorun çıkarmak iç
 Bunu kullanarak, katkıda bulunanları herhangi bir kötüye kullanımdan sorumlu tutamayacağınızı kabul etmiş olursunuz.
 <br>
 
-- [💣SmSBomBTurkey💣](#smsbombturkey)
+
 
 NASIL KURULUR ! 💣
